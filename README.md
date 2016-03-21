@@ -1,2 +1,2 @@
 # datasciencecoursera
-Some of the files for the first assignment.
+Files for the JHU Introduction to Data Science course on Coursera.
